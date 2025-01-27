@@ -14,24 +14,6 @@
   <a href="https://freshidea.com/jonah/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
     <a href="http://eyl327.mywebcommunity.org/promos/"><img alt="Gifts" title="Gifts for you" src="https://img.shields.io/badge/-Links%20to%20free%20stuff-000000?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
 </p>
-
-## 🔥 My contribution streak
-
-<p align="center">
-  <a href="https://github.com/adamblin/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adamblin#version3"/>
-  </a>
-</p>
-
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/adamblin?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
-
-## 🙋‍♂️ Connect with me:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
-
 ## 📘 My top open source projects
 
 <table>
@@ -73,8 +55,26 @@
 
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
+  <a href="https://github.com/adamblin?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
 </p>
+## 🔥 My contribution streak
+
+<p align="center">
+  <a href="https://github.com/adamblin/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adamblin#version3"/>
+  </a>
+</p>
+
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/adamblin?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+
+## 🙋‍♂️ Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+
+
 
 ## 👨‍💻 Languages and Tools:
 

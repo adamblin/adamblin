@@ -9,7 +9,7 @@
 
 ## 📖 About me
 
-* 💻 I'm a backend and video game develope.
+* 💻 I'm a backend and video game developer.
 * 🧠 I'm a curious learner always exploring new fields in tech and design.
 * 🌟 I'm an organized, optimistic, positive, and creative person who enjoys tackling challenges with enthusiasm.
 * 🎓 I'm a double major student in Computer Science and Information Systems / Video Game Design and Production (graduating soon!).

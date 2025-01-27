@@ -46,7 +46,7 @@
 
 <p align="left">
   <a href="https://adamblin.itch.io/"><img alt="Itch.io" title="Itch.io" src="https://img.shields.io/badge/-Itch.io-FF0000?style=for-the-badge&logo=itch.io&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/adam-benítez/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/adam-benitez/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 

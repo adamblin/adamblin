@@ -20,7 +20,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><b>LaTeX-Gboard-Dictionary</b></a></td>
+      <td><a href="https://github.com/RubenMailloBaena/ProjectesII_Grup8.git"><b>ColorShifter</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><b>GitHub Readme Streak Stats</b></a></td>

@@ -1,6 +1,10 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<div align="center">
+  <a href="#"><img width="50%" height="auto" src="https://plus.unsplash.com/premium_photo-1720287601920-ee8c503af775?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" /></a>
+</div>
 
-<h3 align="center">Hey there, I'm Adam</a> 
+
+<h3 align="center"><strong>Hey there, I'm Adam</strong></h3>
+
 
 
 ## 📖 About me

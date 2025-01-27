@@ -44,20 +44,12 @@
 <p align="left">
   <a href="https://github.com/adamblin?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
 </p>
-## 🔥 My contribution streak
-
-<p align="center">
-  <a href="https://github.com/adamblin/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adamblin#version3"/>
-  </a>
-</p>
-
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/adamblin?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 ## 🙋‍♂️ Connect with me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jonah-lawrence/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://adamblin.itch.io/"><img alt="Itch.io" title="Itch.io" src="https://img.shields.io/badge/-Itch.io-FF0000?style=for-the-badge&logo=itch.io&logoColor=white"/></a>
 </p>
 
 

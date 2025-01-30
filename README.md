@@ -3,7 +3,7 @@
 </div>
 
 
-<h3 align="center"><strong>Hey there, I'm Adam</strong></h3>
+<h3 align="center"><strong>Hey there, I'm Adam Benítez Campos</strong></h3>
 
 
 

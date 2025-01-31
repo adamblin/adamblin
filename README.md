@@ -80,7 +80,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="adamblin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamblin&langs_count=10&layout=compact&cache_seconds=3600&count_private=true&hide=html,css" />
+  <img alt="adamblin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamblin&langs_count=10&layout=compact&cache_seconds=3600&hide=html,css" />
 </a>
 
 

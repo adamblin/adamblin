@@ -65,6 +65,10 @@
                         src="https://img.icons8.com/ios-filled/50/000000/unity.png" /></a></td>
             <td><a href="#"><img alt="MongoDB" title="MongoDB" height="28px"
                         src="https://img.icons8.com/color/48/000000/mongodb.png" /></a></td>
+            <td><a href="#"><img alt="Oracle" title="Oracle" height="28px"
+                        src="https://img.icons8.com/color/48/000000/oracle-logo.png" /></a></td>
+            <td><a href="#"><img alt="MySQL" title="MySQL" height="28px"
+                        src="https://img.icons8.com/color/48/000000/mysql-logo.png" /></a></td>
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
                         src="https://i.imgur.com/DZgetVv.png" /></a></td>
         </tr>
